@@ -18,11 +18,12 @@ OrderDate, ShipDate, Country, Region, SalesChannel, ItemType, UnitsSold, TotalRe
 - Order Processing Trend (Year–Month)
 
 Key Insights
+- Sales and profit vary across channels and regions.
+- Some product categories contribute more to revenue and profit.
+- Monthly sales and profit show changing trends over time.
+- Order processing times fluctuate and may impact performance.
 
-* Sales and profit vary across channels and regions.
-* Some product categories contribute more to revenue and profit.
-* Monthly sales and profit show changing trends over time.
-* Order processing times fluctuate and may impact performance.
+
 
  Tools
 Power BI, Excel/CSV
@@ -31,4 +32,4 @@ Power BI, Excel/CSV
 
 - Power BI dashboard (`.pbix`)
 - Dataset file
-- Power BI dashboard screenshot
+- Power BI dashboard screenshot [ Sale Performance Dashboard.png ]

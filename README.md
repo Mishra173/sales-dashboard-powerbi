@@ -13,9 +13,10 @@ OrderDate, ShipDate, Country, Region, SalesChannel, ItemType, UnitsSold, TotalRe
 - KPIs: Total Revenue, Total Profit, Profit%, Total Orders, Average Order Value
 - Sales & Profit by Channel
 - Sales & Profit by Country
-- Top 5 Products
+- Top 5 Order Items
 - Monthly Sales & Profit Trend
-- Order Processing Trend (Year–Month)
+- Average Order Processing Time (Year–Month Trend)
+- Order Priority Distribution
 
 Key Insights
 - Sales and profit vary across channels and regions.

@@ -32,4 +32,5 @@ Power BI, Excel/CSV
 
 - Power BI dashboard (`.pbix`)
 - Dataset file
-- Power BI dashboard screenshot [ https://github.com/Mishra173/sales-dashboard-powerbi/blob/main/Sale%20Performance%20%20Dashboard.png]
+- Power BI dashboard screenshot [ <img width="902" height="504" alt="image" src="https://github.com/user-attachments/assets/d1dceb58-c9e6-4c2f-8d09-f59246637cb4" />
+]
